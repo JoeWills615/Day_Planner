@@ -7,10 +7,10 @@ this day planner can help you keep track of your appointments during the work da
 https://joewills615.github.io/Day_Planner/
 
 
-<img src="./assets/planner_img_01.png">
+<img src="./assets/planner_img_01.PNG">
 
-<img src="./assets/planner_img_02.png">
+<img src="./assets/planner_img_02.PNG">
 
-<img src="./assets/planner_img_03.png">
+<img src="./assets/planner_img_03.PNG">
 
 
